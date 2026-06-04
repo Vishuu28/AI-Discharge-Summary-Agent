@@ -1,0 +1,6 @@
+API :
+api_key="AQ.Ab8RN6L9Y9P1e0l_bw8uaiDpQHK2hCZcNvAXMmcSUFx1jqIuIA"
+also check this step if you get any error
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+
+print("OCR Ready")
