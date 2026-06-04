@@ -35,9 +35,9 @@ Medication reconciliation ,
 Pending result detection ,
 Missing information detection ,
 Clinician review flags ,
-Agent trace logging ,
+Agent trace logging .
 
 # Limitations
 OCR quality depends on source PDF quality ,
 Medication reconciliation depends on source note completeness ,
-Generated summary is intended for clinician review and not autonomous use ,
+Generated summary is intended for clinician review and not autonomous use .
