@@ -20,24 +20,24 @@ This project implements an agentic AI system that converts unstructured patient 
                           Trace Logger
 
 # Safety Guardrails
-No hallucination policy
-Missing information is marked:
+1.No hallucination policy , 
+2.Missing information is marked:
 MISSING - CLINICIAN REVIEW REQUIRED
 Pending results are surfaced explicitly
 Conflicting information is flagged
 Output is always a draft for clinician review
 
 # Features
-PDF ingestion
-OCR-based text extraction
-Diagnosis extraction
-Medication reconciliation
-Pending result detection
-Missing information detection
-Clinician review flags
-Agent trace logging
+PDF ingestion ,
+OCR-based text extraction ,
+Diagnosis extraction ,
+Medication reconciliation ,
+Pending result detection ,
+Missing information detection ,
+Clinician review flags ,
+Agent trace logging ,
 
 # Limitations
-OCR quality depends on source PDF quality
-Medication reconciliation depends on source note completeness
-Generated summary is intended for clinician review and not autonomous use
+OCR quality depends on source PDF quality ,
+Medication reconciliation depends on source note completeness ,
+Generated summary is intended for clinician review and not autonomous use ,
